@@ -1,7 +1,7 @@
 # Analise-De-Dados-2025
 Projetos de análises de dados realizados em 2025
 
-## Projeto MySQL com dados de anime
+## Projeto MySQL-anime-dataset
 ### Competências:
 1. Tratamento de dados
 2. Análise de dados
