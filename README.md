@@ -18,8 +18,6 @@ Projetos de análises de dados realizados em 2025
 3. Machine Learning
 4. Scikit-learn
 5. Avaliação de desempenho
-6. Deploy
-7. Streamlit
 #### Bases de Dados:
 - **[teste](https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset)**  
 - **[treino](https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset?select=train.csv)**  
